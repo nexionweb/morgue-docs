@@ -1,25 +1,27 @@
 ---
 sidebar_position: 2
 title: Appearance
+description: Light and dark themes and display options.
 ---
 
 # Appearance
 
-:::note[Work in progress]
-This page is being written. The outline below shows what it will cover.
-:::
-
-Light and dark themes and display options.
+Tune how Morgue looks under **Settings → Appearance**.
 
 ## Light vs. dark
 
-_Coming soon._
+- Switch between **light** and **dark** themes.
+- Morgue defaults to its warm dark theme; light uses the same palette in paper tones.
 
 ## Theme behavior
 
-_Coming soon._
+- Your choice is **remembered** across launches.
+- For accessibility, Morgue also respects the system **high-contrast** and **reduced-motion** settings — see **[Accessibility](/settings/accessibility)**.
 
-## Density and grid
+## App icon
 
-_Coming soon._
+From Appearance you can also choose your **[app icon](/settings/app-icon)** — the icon Morgue shows in the dock and Applications.
 
+## Grid density
+
+The asset grid supports different **column counts**, so you can pack more thumbnails in or give each one more room. Adjust it from the grid's controls.

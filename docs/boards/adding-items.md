@@ -1,25 +1,34 @@
 ---
 sidebar_position: 2
 title: Adding items
+description: Drop assets, text, and notes onto a board.
 ---
 
 # Adding items
 
-:::note[Work in progress]
-This page is being written. The outline below shows what it will cover.
-:::
-
-Drop assets, text, and notes onto a board.
+A board is built from three kinds of items: **assets**, **text**, and **notes**.
 
 ## Adding assets
 
-_Coming soon._
+- Use the board's **add / picker** to browse your library and drop assets onto the canvas.
+- On an empty board, the **ADD ASSETS** button gets you started.
+- Assets keep their **aspect ratio** when you resize them — no squashing or stretching.
 
-## Text and headings
+## Adding text and notes
 
-_Coming soon._
+- Add **text** for headings and labels.
+- Text comes in sizes (e.g. a large **heading** style) so you can build a visual hierarchy on the board.
 
-## Resizing and arranging
+## Arranging
 
-_Coming soon._
+- **Move** an item by dragging it; **resize** from its corner handle.
+- **Multi-select** with a marquee (drag a box) or by adding items to the selection, then move them together.
+- Control which items sit on top — see **[Free-draw & layers](/boards/drawing-and-layers)**.
 
+:::tip[Start from a template]
+If you'd rather not arrange from scratch, apply a **[board template](/boards/templates)** to scaffold a labeled grid, then drop your assets into place.
+:::
+
+## Next
+
+Connect related items with arrows → **[Connecting items](/boards/connecting-items)**.

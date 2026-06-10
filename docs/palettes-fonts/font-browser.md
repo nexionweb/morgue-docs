@@ -1,25 +1,27 @@
 ---
 sidebar_position: 4
 title: Font browser
+description: Browse and preview fonts in your library.
 ---
 
 # Font browser
 
-:::note[Work in progress]
-This page is being written. The outline below shows what it will cover.
-:::
+The font browser is where you explore type — both the fonts captured from the web and the wider catalog you can pull in with a Google Fonts key.
 
-Browse and preview fonts in your library.
+## Browsing your fonts
 
-## Browsing fonts
-
-_Coming soon._
+- Open **Browse Fonts** from the sidebar.
+- See the fonts in your library, with **live previews** so you can judge them at a glance.
 
 ## Previewing
 
-_Coming soon._
+- Preview type in the browser to compare options side by side.
+- Use what you find as reference for your own type choices.
 
-## Favorites
+## The full Google Fonts catalog
 
-_Coming soon._
+Add your own **[Google Fonts API key](/palettes-fonts/google-fonts)** and the browser can show the **entire Google Fonts library**, not just what you've captured — turning Morgue into a type-exploration tool as well as a reference store.
 
+## Next
+
+Set up catalog browsing → **[Google Fonts API key](/palettes-fonts/google-fonts)**.

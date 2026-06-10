@@ -1,25 +1,30 @@
 ---
 sidebar_position: 3
 title: Copying colors
+description: Grab any hex with a click or right-click.
 ---
 
 # Copying colors
 
-:::note[Work in progress]
-This page is being written. The outline below shows what it will cover.
+Getting a color out of Morgue and into your design tool is a single action.
+
+## Copy a color
+
+- **Click** a swatch to copy its hex value.
+- **Right-click** a swatch to copy the hex as well — with a quick ✓ confirmation so you know it worked.
+
+The hex lands on your clipboard, ready to paste into Figma, your CSS, or anywhere else.
+
+:::info[Reliable clipboard]
+Morgue copies to the clipboard through the native macOS clipboard, so the value pastes cleanly into any app.
 :::
 
-Grab any hex with a click or right-click.
+## Exporting a whole palette
 
-## Copy a single color
+Need more than one color? You can take an entire palette with you:
 
-_Coming soon._
+- Export your palettes as part of a **[library export](/backup-restore/exporting)** (a full backup `.zip`), which includes a `palettes.json` you can reuse.
 
-## Right-click to copy hex
-
-_Coming soon._
-
-## Exporting a palette
-
-_Coming soon._
-
+:::tip[Quick single-color grab]
+For just one color, right-click the swatch — it's the fastest path from "I like that" to "it's in my file."
+:::

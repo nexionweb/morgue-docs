@@ -1,25 +1,27 @@
 ---
 sidebar_position: 3
 title: App icon
+description: Choose between the available app icons.
 ---
 
 # App icon
 
-:::note[Work in progress]
-This page is being written. The outline below shows what it will cover.
-:::
-
-Choose between the available app icons.
+Morgue lets you pick the icon it shows in the **dock** and **Applications** folder.
 
 ## Choosing an icon
 
-_Coming soon._
+1. Open **Settings → Appearance**.
+2. Choose from the available icon styles.
+3. The dock icon updates to match.
 
 ## How it persists
 
-_Coming soon._
+Your choice is **saved** and re-applied automatically every time Morgue launches — including after an update — so it sticks.
 
 ## Resetting
 
-_Coming soon._
+Pick a different style at any time to change it back; there's no lock-in.
 
+:::note[macOS icon cache]
+macOS aggressively caches app icons. If a change doesn't appear everywhere immediately, it usually catches up shortly or after the next launch.
+:::
