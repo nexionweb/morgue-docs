@@ -41,7 +41,7 @@ const config: Config = {
           // Serve docs at the site root (this is a docs-only site, no landing page).
           routeBasePath: '/',
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/nexionweb/morgue-docs/tree/main/',
+          // No "Edit this page" links — readers shouldn't be sent to GitHub.
         },
         // No blog on the docs site.
         blog: false,
@@ -83,34 +83,6 @@ const config: Config = {
           position: 'right',
         },
       ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Documentation',
-          items: [
-            {label: 'Getting Started', to: '/'},
-            {label: 'Capturing', to: '/capturing/overview'},
-            {label: 'Boards', to: '/boards/overview'},
-            {label: 'Backup & Restore', to: '/backup-restore/overview'},
-          ],
-        },
-        {
-          title: 'Morgue',
-          items: [
-            {label: 'Website', href: 'https://morgueapp.com'},
-            {label: 'Your Account', href: 'https://morgueapp.com/customer-dashboard'},
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {label: 'GitHub', href: 'https://github.com/nexionweb/morgue-docs'},
-          ],
-        },
-      ],
-      copyright: `© ${new Date().getFullYear()} Morgue. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.oneLight,
