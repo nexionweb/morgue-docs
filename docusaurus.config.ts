@@ -73,6 +73,11 @@ const config: Config = {
           label: 'Documentation',
         },
         {
+          to: '/roadmap',
+          label: 'Roadmap',
+          position: 'left',
+        },
+        {
           href: 'https://morgueapp.com',
           label: 'Website',
           position: 'right',
