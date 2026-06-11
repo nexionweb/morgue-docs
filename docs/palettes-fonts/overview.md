@@ -8,6 +8,8 @@ description: Build palettes, copy colors, and browse fonts.
 
 Color and type are first-class citizens in Morgue, not afterthoughts on a screenshot. Every capture brings its palette and fonts along — and you can build, copy, and browse them directly.
 
+![An asset's auto-extracted palette and detected fonts in the details panel](/img/screenshots/palette-extraction.png)
+
 ## Palettes in Morgue
 
 - Captures arrive with an **auto-extracted palette** — see **[Auto-extracted fonts & colors](/capturing/fonts-and-colors)**.

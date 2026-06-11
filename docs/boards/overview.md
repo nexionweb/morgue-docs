@@ -8,6 +8,8 @@ description: Moodboards on an infinite canvas — assemble references, notes, an
 
 Boards are Morgue's infinite-canvas moodboards. Pull in your saved assets, add text and notes, connect related items with arrows, and draw on the canvas — all in one space you can pan and zoom freely.
 
+![A Morgue board — assets, notes, and connectors on the infinite canvas](/img/screenshots/boards-canvas.png)
+
 ## What boards are for
 
 - Assembling a **moodboard** for a project or pitch.

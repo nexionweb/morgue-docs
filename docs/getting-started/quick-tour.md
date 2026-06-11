@@ -8,6 +8,8 @@ description: Save, organize, board, and back up your first references in about f
 
 This five-minute tour walks the whole loop: **capture → organize → board → back up**. Each step links to the in-depth section if you want more.
 
+![The Morgue app — library grid with the sidebar and asset details panel](/img/screenshots/quick-tour-main.png)
+
 ## 1. Connect the browser extension
 
 Morgue captures from the web through a small browser extension that talks to the app over a local connection.

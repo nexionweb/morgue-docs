@@ -16,6 +16,8 @@ Add your own **[Google Fonts API key](/palettes-fonts/google-fonts)** to browse 
 
 Morgue has **opt-in** AI assistance powered by your own **Claude API key** (from [console.anthropic.com](https://console.anthropic.com/settings/keys)). Add the key under **Settings → AI**. Without a key, these features are simply off — Morgue is fully usable without them.
 
+![The Settings → AI tab with the Claude and Google Fonts key fields](/img/screenshots/settings-ai.png)
+
 ### What it does
 
 With a key set, Claude (vision) helps with two things:

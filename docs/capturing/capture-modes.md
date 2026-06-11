@@ -8,6 +8,8 @@ description: Visible screen, full page, and region capture explained.
 
 Morgue gives you three ways to capture a page, depending on whether you want what's on screen, the whole page, or just a slice.
 
+![The Morgue browser extension showing the capture mode options](/img/screenshots/capturing-modes.png)
+
 ## Visible screen
 
 Captures **exactly what's currently visible** in the browser viewport — what you can see without scrolling.

@@ -8,6 +8,8 @@ description: Folders, tags, search, and dedup — how to keep a big library find
 
 Saving references is easy. Finding them three months later is the hard part — and it's what Morgue's organizing tools are built for.
 
+![The sidebar with folders and tags alongside the asset grid](/img/screenshots/organizing-folders-tags.png)
+
 ## The two ways to group
 
 | Tool | Think of it as | Example |

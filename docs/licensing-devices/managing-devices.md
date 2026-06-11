@@ -8,6 +8,8 @@ description: See and rename the devices on your license.
 
 Everything about the device you're on lives under **Settings → License**.
 
+![The account dashboard showing registered devices on your license](/img/screenshots/account-dashboard.png)
+
 ## Viewing your device
 
 Settings → License shows:
