@@ -14,7 +14,19 @@ Add your own **[Google Fonts API key](/palettes-fonts/google-fonts)** to browse 
 
 ## AI configuration
 
-Where Morgue offers optional AI-assisted features, they're configured here. These are **opt-in** — Morgue is fully usable without them.
+Morgue has **opt-in** AI assistance powered by your own **Claude API key** (from [console.anthropic.com](https://console.anthropic.com/settings/keys)). Add the key under **Settings → AI**. Without a key, these features are simply off — Morgue is fully usable without them.
+
+### What it does
+
+With a key set, Claude (vision) helps with two things:
+
+- **Suggest a name & palette** — in an asset's **details panel**, click **Suggest name & palette**. Claude looks at the image and proposes a short, descriptive title plus a 5–6 color palette you can apply.
+- **Auto-name on capture** — the Chrome extension can name a capture from the page context as it's saved, and offer a palette before you save.
+
+### What it does *not* do
+
+- **Tagging stays manual.** Morgue doesn't auto-tag — automatic tagging tended to guess intent and add noise, so tags are always yours to add. (See **[Tags](/organizing/tags)**.)
+- Nothing runs automatically in the background and nothing is sent anywhere unless **you** trigger a suggestion with **your** key.
 
 ## Privacy
 
