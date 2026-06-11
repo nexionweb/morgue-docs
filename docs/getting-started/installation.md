@@ -6,7 +6,7 @@ description: Download, install, and open Morgue for the first time on macOS.
 
 # Installation
 
-Morgue is a native macOS app delivered as a signed, notarized `.dmg`. Installing takes about a minute.
+Morgue is a native macOS app — a signed, notarized `.dmg`, delivered as a `.zip` you unzip first. Installing takes about a minute.
 
 ## Requirements
 
@@ -21,13 +21,14 @@ Morgue is distributed directly from [morgueapp.com](https://morgueapp.com), not 
 ## 1. Download the app
 
 1. Go to [morgueapp.com](https://morgueapp.com) (or your purchase confirmation / [account dashboard](https://morgueapp.com/customer-dashboard)).
-2. Download the latest **`morgue_<version>_aarch64.dmg`**.
+2. Download the latest **`morgue_<version>_aarch64.dmg.zip`**.
 
 ## 2. Install it
 
-1. Open the downloaded `.dmg` — a window appears showing the **Morgue** app and a shortcut to your **Applications** folder.
-2. **Drag the Morgue icon onto the Applications folder.**
-3. Eject the disk image (drag it to the Trash / click the eject button in Finder).
+1. **Unzip the download** — double-click `morgue_<version>_aarch64.dmg.zip` in Finder to get `morgue_<version>_aarch64.dmg`.
+2. Open the `.dmg` — a window appears showing the **Morgue** app and a shortcut to your **Applications** folder.
+3. **Drag the Morgue icon onto the Applications folder.**
+4. Eject the disk image (drag it to the Trash / click the eject button in Finder).
 
 :::tip
 Always run Morgue from **Applications**, not from inside the mounted `.dmg`. Running it from the disk image can prevent updates from installing correctly.
