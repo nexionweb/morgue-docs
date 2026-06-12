@@ -16,14 +16,14 @@ Open Settings from the app (gear / Settings entry). It fills the window; close i
 
 | Section | What's there |
 | --- | --- |
-| **[Appearance](/settings/appearance)** | Light / dark theme, app icon, display options. |
-| **[App icon](/settings/app-icon)** | Choose which Morgue dock/app icon to use. |
+| **[Appearance](/settings/appearance)** | Light / dark theme, **[app icon](/settings/app-icon)**, display options. |
 | **Library** | Export, import, and the library location — see **[Backup & Restore](/backup-restore/overview)**. |
-| **[License](/licensing-devices/managing-devices)** | Your plan, device, rename, and deactivate. |
 | **Extension** | Capture bridge status for the **[browser extension](/capturing/browser-extension)**. |
-| **[AI features](/settings/ai-features)** | Optional AI config and the Google Fonts key. |
-| **Shortcuts** | Keyboard reference — see **[Keyboard shortcuts](/reference/keyboard-shortcuts)**. |
-| **[Accessibility](/settings/accessibility)** | High-contrast and reduced-motion behavior. |
+| **[AI](/settings/ai-features)** | Optional AI config and the Google Fonts key. |
+| **[License](/licensing-devices/managing-devices)** | Your plan, device, rename, and deactivate. |
+| **Keys** | Keyboard reference — see **[Keyboard shortcuts](/reference/keyboard-shortcuts)**. |
+
+Accessibility (high-contrast, reduced motion) isn't a separate tab — Morgue follows your **macOS system settings** automatically. See **[Accessibility](/settings/accessibility)**.
 
 ## What's saved where
 
